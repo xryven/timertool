@@ -14,7 +14,7 @@ xRyven's Timer Tool is a simple and easy-to-use Windows application that allows 
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/xRyvenTimerTool/releases) page.
+1. Download the latest release from the [Releases](https://github.com/xryven/timertool/releases) page.
 2. Run the `.exe` file directly — no installation required.
 
 ## Usage
